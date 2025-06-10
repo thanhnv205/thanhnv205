@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 Giới thiệu ngắn gọn
 
-- 🔭 Hiện tại tôi đang làm việc tại **Freelance Fulltack Developer**
+- 🔭 Hiện tại tôi đang làm việc tại **Freelancer Fulltack Developer**
 - 🌱 Đang học thêm về **DevOps và Cloud (AWS, Docker, K8s)**
 - 💬 Hỏi tôi về **React, Node.js, NestJS, MYSQL**
 - 📫 Liên hệ: thanhvetc@gmail.com

@@ -38,23 +38,23 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 
----
+<!---
 
 ### 📊 Kỹ năng (biểu đồ thống kê)
 
-<!-- GitHub Readme Stats -->
+<!-- GitHub Readme Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=6&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
 </p>
 
-<!-- GitHub Streak Stats -->
+ GitHub Streak Stats 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
 </p>
 
 <!---
-
+--
 ### 📁 Dự án nổi bật
 
 - 🔗 [E-Commerce App](https://github.com/your-github-username/ecommerce-app)
